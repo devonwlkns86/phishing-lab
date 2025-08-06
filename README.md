@@ -5,7 +5,12 @@ can be captured in a controlled environment for cybersecurity awareness and defe
 🚨 Legal & Ethical Notice
 This lab is intended strictly for educational purposes in a controlled environment.
 Never deploy or use this code in real-world scenarios or against unsuspecting individuals.
-*++ No real users or external servers involved ***
+
+
+
+
+*** No real users or external servers involved ***
+
 
 
 
