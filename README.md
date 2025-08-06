@@ -29,11 +29,3 @@ HTTP POST request handling
 Logging mechanisms
 Cybersecurity awareness and ethical hacking practices
 
-📁 Project Structure
-phishing-lab/
-├── app.py              # Main Flask app
-├── templates/
-│   └── index.html      # Fake login page
-├── creds.txt           # Logs captured credentials
-├── README.md           # Project documentation
-└── .gitignore          # Files excluded from Git
